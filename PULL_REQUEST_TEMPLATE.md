@@ -1,4 +1,5 @@
-##  Creating the pull request template
+## Creating the pull request template
+
   * [ ] Read thoroughly the feature description to check if everything is implemented.
   * [ ] Run the code and use it as the end user would. Double check requested feature’s description.
   * [ ] Describe how to test the PR: chatbot, API, etc.
